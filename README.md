@@ -4,4 +4,4 @@ This is a free GBA Emulator which is a fork of theclashman2's emulator. There ar
 
 # GBA Emulator Website
 
-https://theclashman2.github.io/GBA-Emulator/
+https://amogosreal.github.io/gbaemu/
