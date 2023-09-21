@@ -1,6 +1,6 @@
-# Welcome to GBA Emulator
+# Welcome to my Gameboy Advance Emulator!
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+This is a free GBA Emulator which is a fork of theclashman2's emulator. There are more than 50 games to play!
 
 # GBA Emulator Website
 
